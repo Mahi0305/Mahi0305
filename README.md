@@ -3,7 +3,7 @@
 <h3 align="center">☁️ Cloud Infrastructure | Linux Engineer | AWS Certified Cloud Practitioner</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mahi0305/Mahi0305/main/profile.png" width="180" style="border-radius:50%;" alt="Mahendra Reddy"/>
+  <img src="profile.jpg" width="180" style="border-radius:50%;" alt="Mahendra Reddy"/>
 </p>
 
 <p align="center">
