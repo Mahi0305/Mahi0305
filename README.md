@@ -163,7 +163,7 @@ I specialize in AWS cloud infrastructure, Linux administration, networking, moni
 - High Availability
 - Production-ready Architecture
 
-🔗 **GitHub:** *(Add Repository Link Here)*
+🔗 **GitHub:** *https://github.com/Mahi0305/AWS-VPC-public-private-subnet-Architecture.git*
 
 ---
 
