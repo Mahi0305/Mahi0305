@@ -1,9 +1,17 @@
 <h1 align="center">👋 Hi, I'm Venkata Mahendra Reddy P</h1>
 
-<h3 align="center">☁️ Cloud Infrastructure | Linux Engineer | AWS Certified Cloud Practitioner</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mahi0305/Mahi0305/main/profile.png"
+       width="300"
+       alt="Profile Picture">
+</p>
+
+<h3 align="center">
+☁️ Cloud Infrastructure | Linux Engineer
+</h3>
 
 <p align="center">
-  <img src="profile.jpg" width="180" style="border-radius:50%;" alt="Mahendra Reddy"/>
+AWS Certified Cloud Practitioner • Linux Engineer • DevOps Learner
 </p>
 
 <p align="center">
