@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Venkata Mahendra Reddy P</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mahi0305/Mahi0305/main/profile.png"
+  <img src="profile.jpg"
        width="300"
        alt="Profile Picture">
 </p>
